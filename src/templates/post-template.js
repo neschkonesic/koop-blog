@@ -26,7 +26,7 @@ const PostTemplate = ({ data }) => {
           <MDXRenderer>{body}</MDXRenderer>
         </div>
         <h4>
-          <span>Written by {author}</span> & Posted on <span>{date}</span>
+          <span>autor {author}</span> & Posted on <span>{date}</span>
         </h4>
       </section>
     </Layout>
