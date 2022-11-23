@@ -18,7 +18,7 @@ const PostTemplate = ({ data }) => {
         <div>
           <h1>{title}</h1>
           <h4>
-            <span>Written by {author}</span> & Posted on <span>{date}</span>
+            <span>autor sajta {author}</span> & Posted on <span>{date}</span>
           </h4>
         </div>
         <GatsbyImage image={img} alt="Blog Post" />
