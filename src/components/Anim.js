@@ -20,7 +20,7 @@ const Anim = ({ children }) => {
       animate={controls}
       initial="hidden"
       variants={{
-        visible: { opacity: 1, y: 0 },
+        visible: { opacity: 10, y: 0 },
         hidden: { opacity: 0, y: 15 },
       }}
       transition={{ ease: "easeOut", duration: 0.75, delay: 0.15 }}
