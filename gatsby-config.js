@@ -7,15 +7,15 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Koop`,
+    title: `Neško`,
     titleTemplate: `%s | A simple MDX blog`,
     description: `Built using GatsbyJS and serving content using markdown`,
     siteUrl: `https://koop-blog.netlify.app`, // Cannot include a trailing slash
     image: `/images/macbook.jpg`,
-    siteAuthor: `Morgan Baker`,
+    siteAuthor: `Neško`,
     siteAuthorUrl: `https://www.morganbaker.dev`,
     twitterUsername: `@twitter`,
-    facebookName: `https://www.facebook.com`,
+    facebookName: `https://www.facebook.com/neschkodjoric/`,
     instagramName: `https://www.instagram.com`,
   },
   plugins: [
